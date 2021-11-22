@@ -1,0 +1,50 @@
+.boxcenter {
+    width: 80%;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.box1 {
+    margin-right: 4%;
+}
+
+.box2,
+.box1 {
+    float: left;
+    width: 48%;
+}
+
+h1 {
+    text-align: center;
+}
+
+input {
+    background-color: rgb(204, 204, 204);
+    border-radius: 10px;
+    padding: 5px 20px;
+    text-align: center;
+    font-weight: bold;
+}
+/* 
+#dssp img {
+    width: 100px;
+    height: 80px;
+} */
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+table img {
+    width: 200px;
+}
+th {
+    background-color: aqua;
+}
+
+th,
+td {
+    border: 1px rgb(192, 177, 177) solid;
+    padding: 5px 10px;
+    text-align: center;
+} 
