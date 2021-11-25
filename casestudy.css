@@ -1,3 +1,6 @@
+body {
+    background-image: url(xe/background.jpg);
+}
 .boxcenter {
     width: 80%;
     margin: 0 auto;
@@ -19,7 +22,7 @@ h1 {
 }
 
 input {
-    background-color: rgb(204, 204, 204);
+    background-color: rgb(30, 40, 173);
     border-radius: 10px;
     padding: 5px 20px;
     text-align: center;
@@ -39,12 +42,12 @@ table img {
     width: 200px;
 }
 th {
-    background-color: aqua;
+    background-color: rgb(46, 185, 41);
 }
 
 th,
 td {
-    border: 1px rgb(192, 177, 177) solid;
+    border: 1px rgb(23, 64, 153) solid;
     padding: 5px 10px;
     text-align: center;
 } 
