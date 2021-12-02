@@ -1,2 +1,2 @@
-# Product Modull1
+# Product simple shopping cart
 HTML,CSS,JavaScrip
