@@ -44,7 +44,7 @@ class Cart {
         this.name = name;
         this.price = price;
         this.qty = qty;
-        this.amount = amount;
+        this.total = amount;
     }
 }
 let carts = [];
